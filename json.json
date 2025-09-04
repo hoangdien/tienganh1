@@ -1,0 +1,818 @@
+0
+[
+  {
+    "id": 1,
+    "english": "hello",
+    "vietnamese": "xin chào",
+    "korean": "안녕하세요"
+  },
+  {
+    "id": 2,
+    "english": "goodbye",
+    "vietnamese": "tạm biệt",
+    "korean": "안녕히 가세요"
+  },
+  {
+    "id": 3,
+    "english": "stand up",
+    "vietnamese": "đứng lên",
+    "korean": "일어서세요"
+  },
+  {
+    "id": 4,
+    "english": "sit down",
+    "vietnamese": "ngồi xuống",
+    "korean": "앉으세요"
+  },
+  {
+    "id": 5,
+    "english": "listen",
+    "vietnamese": "lắng nghe",
+    "korean": "들어보세요 / 듣다"
+  }
+]
+
+
+
+1
+[
+  {
+    "id": 6,
+    "english": "mother",
+    "vietnamese": "mẹ",
+    "korean": "어머니 / 엄마"
+  },
+  {
+    "id": 7,
+    "english": "father",
+    "vietnamese": "cha / bố",
+    "korean": "아버지 / 아빠"
+  },
+  {
+    "id": 8,
+    "english": "ant",
+    "vietnamese": "con kiến",
+    "korean": "개미"
+  },
+  {
+    "id": 9,
+    "english": "boy",
+    "vietnamese": "con trai / bé trai",
+    "korean": "소년 / 남자아이"
+  },
+  {
+    "id": 10,
+    "english": "brother",
+    "vietnamese": "anh / em trai",
+    "korean": "형 / 오빠 / 남동생"
+  },
+  {
+    "id": 11,
+    "english": "sister",
+    "vietnamese": "chị / em gái",
+    "korean": "누나 / 언니 / 여동생"
+  }
+]
+
+2
+
+[
+  {
+    "id": 12,
+    "english": "pencil",
+    "vietnamese": "bút chì",
+    "korean": "연필"
+  },
+  {
+    "id": 13,
+    "english": "book",
+    "vietnamese": "quyển sách",
+    "korean": "책"
+  },
+  {
+    "id": 14,
+    "english": "bag",
+    "vietnamese": "cái túi / cặp",
+    "korean": "가방"
+  },
+  {
+    "id": 15,
+    "english": "cap",
+    "vietnamese": "mũ lưỡi trai",
+    "korean": "모자"
+  },
+  {
+    "id": 16,
+    "english": "door",
+    "vietnamese": "cánh cửa",
+    "korean": "문"
+  }
+]
+
+
+3
+[
+  {
+    "id": 17,
+    "english": "red",
+    "vietnamese": "màu đỏ",
+    "korean": "빨간색"
+  },
+  {
+    "id": 18,
+    "english": "yellow",
+    "vietnamese": "màu vàng",
+    "korean": "노란색"
+  },
+  {
+    "id": 19,
+    "english": "blue",
+    "vietnamese": "màu xanh da trời / xanh dương",
+    "korean": "파란색"
+  },
+  {
+    "id": 20,
+    "english": "pink",
+    "vietnamese": "màu hồng",
+    "korean": "분홍색"
+  },
+  {
+    "id": 21,
+    "english": "white",
+    "vietnamese": "màu trắng",
+    "korean": "하얀색"
+  },
+  {
+    "id": 22,
+    "english": "flower",
+    "vietnamese": "bông hoa",
+    "korean": "꽃"
+  }
+]
+
+
+4
+[
+  {
+    "id": 23,
+    "english": "head",
+    "vietnamese": "cái đầu",
+    "korean": "머리"
+  },
+  {
+    "id": 24,
+    "english": "leg",
+    "vietnamese": "cái chân",
+    "korean": "다리"
+  },
+  {
+    "id": 25,
+    "english": "arm",
+    "vietnamese": "cánh tay",
+    "korean": "팔"
+  },
+  {
+    "id": 26,
+    "english": "elephant",
+    "vietnamese": "con voi",
+    "korean": "코끼리"
+  },
+  {
+    "id": 27,
+    "english": "food",
+    "vietnamese": "thức ăn",
+    "korean": "음식"
+  }
+]
+
+
+5
+[
+  {
+    "id": 28,
+    "english": "cat",
+    "vietnamese": "con mèo",
+    "korean": "고양이"
+  },
+  {
+    "id": 29,
+    "english": "dog",
+    "vietnamese": "con chó",
+    "korean": "개"
+  },
+  {
+    "id": 30,
+    "english": "bird",
+    "vietnamese": "con chim",
+    "korean": "새"
+  },
+  {
+    "id": 31,
+    "english": "girl",
+    "vietnamese": "con gái / bé gái",
+    "korean": "소녀 / 여자아이"
+  },
+  {
+    "id": 32,
+    "english": "hop",
+    "vietnamese": "nhảy lò cò",
+    "korean": "깡충깡충 뛰다"
+  },
+  {
+    "id": 33,
+    "english": "monkey",
+    "vietnamese": "con khỉ",
+    "korean": "원숭이"
+  },
+  {
+    "id": 34,
+    "english": "snake",
+    "vietnamese": "con rắn",
+    "korean": "뱀"
+  },
+  {
+    "id": 35,
+    "english": "bear",
+    "vietnamese": "con gấu",
+    "korean": "곰"
+  }
+]
+
+
+
+6
+[
+  {
+    "id": 36,
+    "english": "swim",
+    "vietnamese": "bơi",
+    "korean": "수영하다"
+  },
+  {
+    "id": 37,
+    "english": "sing",
+    "vietnamese": "hát",
+    "korean": "노래하다"
+  },
+  {
+    "id": 38,
+    "english": "run",
+    "vietnamese": "chạy",
+    "korean": "달리다"
+  }
+]
+
+7
+[
+  {
+    "id": 39,
+    "english": "one",
+    "vietnamese": "một",
+    "korean": "하나"
+  },
+  {
+    "id": 40,
+    "english": "two",
+    "vietnamese": "hai",
+    "korean": "둘"
+  },
+  {
+    "id": 41,
+    "english": "three",
+    "vietnamese": "ba",
+    "korean": "셋"
+  },
+  {
+    "id": 42,
+    "english": "four",
+    "vietnamese": "bốn",
+    "korean": "넷"
+  },
+  {
+    "id": 43,
+    "english": "five",
+    "vietnamese": "năm",
+    "korean": "다섯"
+  },
+  {
+    "id": 44,
+    "english": "six",
+    "vietnamese": "sáu",
+    "korean": "여섯"
+  }
+]
+
+
+
+8
+[
+  {
+    "id": 45,
+    "english": "banana",
+    "vietnamese": "quả chuối",
+    "korean": "바나나"
+  },
+  {
+    "id": 46,
+    "english": "cookie",
+    "vietnamese": "bánh quy",
+    "korean": "쿠키"
+  },
+  {
+    "id": 47,
+    "english": "sandwich",
+    "vietnamese": "bánh sandwich",
+    "korean": "샌드위치"
+  },
+  {
+    "id": 48,
+    "english": "kick",
+    "vietnamese": "đá",
+    "korean": "차다"
+  },
+  {
+    "id": 49,
+    "english": "kite",
+    "vietnamese": "con diều",
+    "korean": "연"
+  },
+  {
+    "id": 50,
+    "english": "love",
+    "vietnamese": "tình yêu / yêu",
+    "korean": "사랑"
+  },
+  {
+    "id": 51,
+    "english": "leaf",
+    "vietnamese": "cái lá",
+    "korean": "나뭇잎"
+  }
+]
+
+
+9
+[
+  {
+    "id": 52,
+    "english": "car",
+    "vietnamese": "xe ô tô",
+    "korean": "자동차"
+  },
+  {
+    "id": 53,
+    "english": "teddy bear",
+    "vietnamese": "gấu bông",
+    "korean": "곰인형"
+  },
+  {
+    "id": 54,
+    "english": "ball",
+    "vietnamese": "quả bóng",
+    "korean": "공"
+  },
+  {
+    "id": 55,
+    "english": "mouse",
+    "vietnamese": "con chuột",
+    "korean": "쥐"
+  },
+  {
+    "id": 56,
+    "english": "mouth",
+    "vietnamese": "cái miệng",
+    "korean": "입"
+  },
+  {
+    "id": 57,
+    "english": "seven",
+    "vietnamese": "bảy",
+    "korean": "일곱"
+  },
+  {
+    "id": 58,
+    "english": "eight",
+    "vietnamese": "tám",
+    "korean": "여덟"
+  },
+  {
+    "id": 59,
+    "english": "nine",
+    "vietnamese": "chín",
+    "korean": "아홉"
+  },
+  {
+    "id": 60,
+    "english": "ten",
+    "vietnamese": "mười",
+    "korean": "열"
+  }
+]
+
+
+
+
+10
+[
+  {
+    "id": 61,
+    "english": "living room",
+    "vietnamese": "phòng khách",
+    "korean": "거실"
+  },
+  {
+    "id": 62,
+    "english": "kitchen",
+    "vietnamese": "nhà bếp",
+    "korean": "부엌"
+  },
+  {
+    "id": 63,
+    "english": "bedroom",
+    "vietnamese": "phòng ngủ",
+    "korean": "침실"
+  }
+]
+
+
+
+[
+  {
+    "id": 1,
+    "english": "hello",
+    "vietnamese": "xin chào",
+    "korean": "안녕하세요"
+  },
+  {
+    "id": 2,
+    "english": "goodbye",
+    "vietnamese": "tạm biệt",
+    "korean": "안녕히 가세요 / 안녕히 계세요"
+  },
+  {
+    "id": 3,
+    "english": "stand up",
+    "vietnamese": "đứng lên",
+    "korean": "일어서세요"
+  },
+  {
+    "id": 4,
+    "english": "sit down",
+    "vietnamese": "ngồi xuống",
+    "korean": "앉으세요"
+  },
+  {
+    "id": 5,
+    "english": "listen",
+    "vietnamese": "lắng nghe",
+    "korean": "들어보세요 / 듣다"
+  },
+  {
+    "id": 6,
+    "english": "mother",
+    "vietnamese": "mẹ",
+    "korean": "어머니 / 엄마"
+  },
+  {
+    "id": 7,
+    "english": "father",
+    "vietnamese": "cha / bố",
+    "korean": "아버지 / 아빠"
+  },
+  {
+    "id": 8,
+    "english": "ant",
+    "vietnamese": "con kiến",
+    "korean": "개미"
+  },
+  {
+    "id": 9,
+    "english": "boy",
+    "vietnamese": "con trai / bé trai",
+    "korean": "소년 / 남자아이"
+  },
+  {
+    "id": 10,
+    "english": "brother",
+    "vietnamese": "anh / em trai",
+    "korean": "형 / 오빠 / 남동생"
+  },
+  {
+    "id": 11,
+    "english": "sister",
+    "vietnamese": "chị / em gái",
+    "korean": "누나 / 언니 / 여동생"
+  },
+  {
+    "id": 12,
+    "english": "pencil",
+    "vietnamese": "bút chì",
+    "korean": "연필"
+  },
+  {
+    "id": 13,
+    "english": "book",
+    "vietnamese": "quyển sách",
+    "korean": "책"
+  },
+  {
+    "id": 14,
+    "english": "bag",
+    "vietnamese": "cái túi / cặp",
+    "korean": "가방"
+  },
+  {
+    "id": 15,
+    "english": "cap",
+    "vietnamese": "mũ lưỡi trai",
+    "korean": "모자"
+  },
+  {
+    "id": 16,
+    "english": "door",
+    "vietnamese": "cánh cửa",
+    "korean": "문"
+  },
+  {
+    "id": 17,
+    "english": "red",
+    "vietnamese": "màu đỏ",
+    "korean": "빨간색"
+  },
+  {
+    "id": 18,
+    "english": "yellow",
+    "vietnamese": "màu vàng",
+    "korean": "노란색"
+  },
+  {
+    "id": 19,
+    "english": "blue",
+    "vietnamese": "màu xanh da trời / xanh dương",
+    "korean": "파란색"
+  },
+  {
+    "id": 20,
+    "english": "pink",
+    "vietnamese": "màu hồng",
+    "korean": "분홍색"
+  },
+  {
+    "id": 21,
+    "english": "white",
+    "vietnamese": "màu trắng",
+    "korean": "하얀색"
+  },
+  {
+    "id": 22,
+    "english": "flower",
+    "vietnamese": "bông hoa",
+    "korean": "꽃"
+  },
+  {
+    "id": 23,
+    "english": "head",
+    "vietnamese": "cái đầu",
+    "korean": "머리"
+  },
+  {
+    "id": 24,
+    "english": "leg",
+    "vietnamese": "cái chân",
+    "korean": "다리"
+  },
+  {
+    "id": 25,
+    "english": "arm",
+    "vietnamese": "cánh tay",
+    "korean": "팔"
+  },
+  {
+    "id": 26,
+    "english": "elephant",
+    "vietnamese": "con voi",
+    "korean": "코끼리"
+  },
+  {
+    "id": 27,
+    "english": "food",
+    "vietnamese": "thức ăn",
+    "korean": "음식"
+  },
+  {
+    "id": 28,
+    "english": "cat",
+    "vietnamese": "con mèo",
+    "korean": "고양이"
+  },
+  {
+    "id": 29,
+    "english": "dog",
+    "vietnamese": "con chó",
+    "korean": "개"
+  },
+  {
+    "id": 30,
+    "english": "bird",
+    "vietnamese": "con chim",
+    "korean": "새"
+  },
+  {
+    "id": 31,
+    "english": "girl",
+    "vietnamese": "con gái / bé gái",
+    "korean": "소녀 / 여자아이"
+  },
+  {
+    "id": 32,
+    "english": "hop",
+    "vietnamese": "nhảy lò cò",
+    "korean": "깡충깡충 뛰다"
+  },
+  {
+    "id": 33,
+    "english": "monkey",
+    "vietnamese": "con khỉ",
+    "korean": "원숭이"
+  },
+  {
+    "id": 34,
+    "english": "snake",
+    "vietnamese": "con rắn",
+    "korean": "뱀"
+  },
+  {
+    "id": 35,
+    "english": "bear",
+    "vietnamese": "con gấu",
+    "korean": "곰"
+  },
+  {
+    "id": 36,
+    "english": "swim",
+    "vietnamese": "bơi",
+    "korean": "수영하다"
+  },
+  {
+    "id": 37,
+    "english": "sing",
+    "vietnamese": "hát",
+    "korean": "노래하다"
+  },
+  {
+    "id": 38,
+    "english": "run",
+    "vietnamese": "chạy",
+    "korean": "달리다"
+  },
+  {
+    "id": 39,
+    "english": "one",
+    "vietnamese": "một",
+    "korean": "하나"
+  },
+  {
+    "id": 40,
+    "english": "two",
+    "vietnamese": "hai",
+    "korean": "둘"
+  },
+  {
+    "id": 41,
+    "english": "three",
+    "vietnamese": "ba",
+    "korean": "셋"
+  },
+  {
+    "id": 42,
+    "english": "four",
+    "vietnamese": "bốn",
+    "korean": "넷"
+  },
+  {
+    "id": 43,
+    "english": "five",
+    "vietnamese": "năm",
+    "korean": "다섯"
+  },
+  {
+    "id": 44,
+    "english": "six",
+    "vietnamese": "sáu",
+    "korean": "여섯"
+  },
+  {
+    "id": 45,
+    "english": "banana",
+    "vietnamese": "quả chuối",
+    "korean": "바나나"
+  },
+  {
+    "id": 46,
+    "english": "cookie",
+    "vietnamese": "bánh quy",
+    "korean": "쿠키"
+  },
+  {
+    "id": 47,
+    "english": "sandwich",
+    "vietnamese": "bánh sandwich",
+    "korean": "샌드위치"
+  },
+  {
+    "id": 48,
+    "english": "kick",
+    "vietnamese": "đá",
+    "korean": "차다"
+  },
+  {
+    "id": 49,
+    "english": "kite",
+    "vietnamese": "con diều",
+    "korean": "연"
+  },
+  {
+    "id": 50,
+    "english": "love",
+    "vietnamese": "tình yêu / yêu",
+    "korean": "사랑"
+  },
+  {
+    "id": 51,
+    "english": "leaf",
+    "vietnamese": "cái lá",
+    "korean": "나뭇잎"
+  },
+  {
+    "id": 52,
+    "english": "car",
+    "vietnamese": "xe ô tô",
+    "korean": "자동차"
+  },
+  {
+    "id": 53,
+    "english": "teddy bear",
+    "vietnamese": "gấu bông",
+    "korean": "곰인형"
+  },
+  {
+    "id": 54,
+    "english": "ball",
+    "vietnamese": "quả bóng",
+    "korean": "공"
+  },
+  {
+    "id": 55,
+    "english": "mouse",
+    "vietnamese": "con chuột",
+    "korean": "쥐"
+  },
+  {
+    "id": 56,
+    "english": "mouth",
+    "vietnamese": "cái miệng",
+    "korean": "입"
+  },
+  {
+    "id": 57,
+    "english": "seven",
+    "vietnamese": "bảy",
+    "korean": "일곱"
+  },
+  {
+    "id": 58,
+    "english": "eight",
+    "vietnamese": "tám",
+    "korean": "여덟"
+  },
+  {
+    "id": 59,
+    "english": "nine",
+    "vietnamese": "chín",
+    "korean": "아홉"
+  },
+  {
+    "id": 60,
+    "english": "ten",
+    "vietnamese": "mười",
+    "korean": "열"
+  },
+  {
+    "id": 61,
+    "english": "living room",
+    "vietnamese": "phòng khách",
+    "korean": "거실"
+  },
+  {
+    "id": 62,
+    "english": "kitchen",
+    "vietnamese": "nhà bếp",
+    "korean": "부엌"
+  },
+  {
+    "id": 63,
+    "english": "bedroom",
+    "vietnamese": "phòng ngủ",
+    "korean": "침실"
+  }
+]
